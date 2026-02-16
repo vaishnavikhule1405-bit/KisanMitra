@@ -141,3 +141,4 @@ const Landing = () => {
 };
 
 export default Landing;
+/* import hero from "@/assets/hero-farm.jpg"*/
